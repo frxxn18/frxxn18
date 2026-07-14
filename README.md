@@ -2,6 +2,8 @@
 
 Actualmente construyo **StrAtisbo**, una aplicación de escritorio para la gestión de estratigrafía arqueológica, desarrollada con Tauri, React y TypeScript.
 
+**Portfolio:** [frxxn18.github.io](https://frxxn18.github.io)
+
 ---
 
 ## Proyecto destacado
@@ -44,5 +46,6 @@ Aplicación de escritorio multiplataforma para arqueología: registro y gestión
 
 ## Contacto
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-frxxn18.github.io-0F1216?style=for-the-badge&logo=githubpages&logoColor=E8B44F)](https://frxxn18.github.io)
 [![Email](https://img.shields.io/badge/Email-franpado8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franpado8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-frxxn18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frxxn18)
