@@ -19,8 +19,7 @@ Aplicación de escritorio multiplataforma para arqueología: registro y gestión
 |---|---|---|
 | [PROYECTO25-26](https://github.com/frxxn18/PROYECTO25-26) | Proyecto de fin de grado de DAW | Laravel · Blade · PHP |
 | [ScraPrice](https://github.com/frxxn18/ScraPrice-main) | Scraper para comparación de precios | Python |
-| [Proyecto_Prog_2025](https://github.com/frxxn18/Proyecto_Prog_2025) | Gestión de préstamos de libros | Python |
-| [CalculadoraModular](https://github.com/frxxn18/CalculadoraModular) | Calculadora modular | C++ |
+| Pres-Atisbo_Final | Aplicación desarrollada para la empresa Atisbo *(repositorio privado)* | TypeScript |
 
 ## Tecnologías
 
