@@ -1,21 +1,19 @@
-# ¡Hola! 👋 Soy Fran
-
-**Desarrollador de aplicaciones web y de escritorio** · Estudiante de DAW (Desarrollo de Aplicaciones Web) 🎓
+**Desarrollador de aplicaciones web y de escritorio** · Estudiante de DAW (Desarrollo de Aplicaciones Web)
 
 Actualmente construyo **StrAtisbo**, una aplicación de escritorio para la gestión de estratigrafía arqueológica, desarrollada con Tauri, React y TypeScript.
 
 ---
 
-## 🚀 Proyecto destacado
+## Proyecto destacado
 
 ### [StrAtisbo](https://github.com/frxxn18/StrAtisbo_Releases)
 Aplicación de escritorio multiplataforma para arqueología: registro y gestión de unidades estratigráficas, matrices de Harris y exportación de datos.
 
 **Stack:** Tauri 2 · React 19 · TypeScript · Tailwind CSS 4 · Zustand · SQLite · Rust
 
-> 📦 Las versiones publicadas están disponibles en [StrAtisbo_Releases](https://github.com/frxxn18/StrAtisbo_Releases)
+> Las versiones publicadas están disponibles en [StrAtisbo_Releases](https://github.com/frxxn18/StrAtisbo_Releases)
 
-## 🗂️ Otros proyectos
+## Otros proyectos
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
@@ -24,7 +22,7 @@ Aplicación de escritorio multiplataforma para arqueología: registro y gestión
 | [Proyecto_Prog_2025](https://github.com/frxxn18/Proyecto_Prog_2025) | Gestión de préstamos de libros | Python |
 | [CalculadoraModular](https://github.com/frxxn18/CalculadoraModular) | Calculadora modular | C++ |
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -38,18 +36,14 @@ Aplicación de escritorio multiplataforma para arqueología: registro y gestión
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📊 Estadísticas
+## Estadísticas
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=frxxn18&show_icons=true&theme=tokyonight&locale=es&hide_border=true" alt="Estadísticas de GitHub" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frxxn18&layout=compact&theme=tokyonight&locale=es&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
-## 📫 Contacto
+## Contacto
 
 [![Email](https://img.shields.io/badge/Email-franpado8%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franpado8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-frxxn18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/frxxn18)
-
----
-
-<p align="center">💡 <i>Siempre aprendiendo y construyendo cosas nuevas.</i></p>
